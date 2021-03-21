@@ -1,0 +1,3 @@
+﻿  Lb4.cpp
+C:\Users\Kamilot322\source\repos\Lb4\Lb4.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lb4.vcxproj -> C:\Users\Kamilot322\source\repos\Lb4\Debug\Lb4.exe
